@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫About Me :
-I'm a back-end developer with NestJS, SAP CAP NodeJS and newbie front-end with UI5.
+I'm a back-end developer with NestJS, SAP CAP NodeJS, and a newbie front-end with UI5.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tienFuK14/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tienvm/) 
@@ -13,10 +13,10 @@ I'm a back-end developer with NestJS, SAP CAP NodeJS and newbie front-end with U
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TienVM-02&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TienVM-02&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️Random Dev Quote
+### ✍️For Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
+### 😂 Just for Fun
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
